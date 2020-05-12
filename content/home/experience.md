@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Dayton, Ohio"
   date_start = "2014-08-01"
-  date_end = "2019-7-31"
+  date_end = "2019-07-31"
   description = ""
 
 [[experience]]
