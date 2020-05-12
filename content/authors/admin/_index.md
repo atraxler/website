@@ -32,6 +32,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/atraxler
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-2725-0686
 superuser: true
 title: Adrienne Traxler
 user_groups:
