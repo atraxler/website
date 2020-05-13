@@ -43,6 +43,11 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   tags = "/tag/:slug/"
   categories = "/category/:slug/"
   publication_types = "/publication-type/:slug/"
+# Permalink notes: https://summer-of-blogdown.netlify.app/day-03/
+# for optimists who plan to blog a lot
+#  post = "/post/:year/:month/:day/:slug/" 
+# for realists who know that you won't have multiple posts per day (or maybe even month)
+  post = "/post/:year/:slug/"
 
 [outputs]
   home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]

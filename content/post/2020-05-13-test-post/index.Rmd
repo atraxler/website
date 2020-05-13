@@ -1,0 +1,27 @@
+---
+title: Test post
+author: Adrienne Traxler
+date: '2020-05-13'
+slug: test-post
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-05-13T10:07:57-04:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+This is a test post using RMarkdown. 
+
+```{r}
+str(iris)
+boxplot(Sepal.Length ~ Species, data = iris)
+```
+
+![alt text here](../../img/hero-academic.png)
